@@ -1,6 +1,6 @@
 # SENTINEL: Multimodal Biometric Verification System 🛡️
 
-**Author:** Muhammad Imad Aziz Khan
+**Author:** Mohammad Airad Khan | Muhammad Imad Aziz Khan
 **Course:** Biometric Systems, Sapienza University of Rome  
 **Framework:** ISO/IEC 30107-3 (PAD) & ISO/IEC 19795-1 Standards
 

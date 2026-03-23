@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pillow
+joblib
+keyboard
+pyttsx3
